@@ -1,4 +1,5 @@
-./Library
-./Library/*
-./Temp
-.Temp/*
+Library
+Library/*
+Temp
+Temp/*
+Library/*
